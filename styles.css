@@ -130,7 +130,7 @@
 
     main {
         margin-top: 80px;
-        padding: 2rem 5%;
+        padding: 3rem 5%;
         max-width: 1900px;
         margin-left: auto;
         margin-right: auto;
@@ -222,7 +222,7 @@
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 3rem;
-        padding: 2rem;
+        padding: 3rem;
         background: white;
         border-radius: 12px;
         box-shadow: 0 5px 15px rgba(0,0,0,0.08);
@@ -248,6 +248,7 @@
         font-weight: 700;
         color: #333;
         margin-bottom: 1rem;
+        padding-top: 20px;
         line-height: 1.2;
     }
 
@@ -287,7 +288,7 @@
 
     .thank-you {
         text-align: center;
-        padding: 3rem;
+        padding-top: 7rem;
     }
 
     .thank-you-content {
@@ -530,6 +531,7 @@
         text-align: center;
         max-width: 700px;
         margin: 0 auto 4rem auto;
+        padding-top: 50px;
     }
 
     .contact-header h1 {
@@ -1010,7 +1012,7 @@
 
     .policy-content {
         max-width: 1000px;
-        margin: 0 auto;
+        margin: 10px auto;
         background: #fff;
         padding: 2rem;
         border-radius: 12px;
@@ -1022,6 +1024,7 @@
         color: #333;
         margin-bottom: 2rem;
         text-align: center;
+        padding-top: 50px;
     }
 
     .policy-section {
@@ -1109,7 +1112,7 @@
 
     .hero-content {
         max-width: 800px;
-        padding: 2rem;
+        padding: 4rem;
     }
 
     .hero-content h1 {
@@ -1385,10 +1388,18 @@
         /* Thank You Page */
         .thank-you-content {
             padding: 1.5rem;
+            padding-top: 7rem;
         }
 
         #orderDetails {
             padding: 1rem;
+        }
+        .policy-content {
+            margin-top: 10rem;
+        }
+
+        .contact-page {
+            margin-top: 8rem;
         }
     }
 
