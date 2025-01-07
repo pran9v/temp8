@@ -1,0 +1,78 @@
+{
+    "products": [
+        {
+            
+  "id": "1",
+  "name": "Elegant Beige Handbag and Wallet Set",
+  "price": 59.99,
+  "description": "Elevate your style with this sophisticated beige handbag and wallet set. Featuring a textured design, a stylish buckle accent, and versatile carrying options, this set is perfect for both casual outings and formal events. The matching wallet adds practicality and charm to complete the look.",
+  "image": "https://img.kwcdn.com/product/fancy/b1183f47-d2b7-4bb1-8ae5-bbabedbf921b.jpg?imageView2/2/w/800/q/70/format/webp",
+  "category": "Accessories",
+  "badge": "Bestseller",
+  "features": [
+    "Textured pattern for a luxurious appeal",
+    "Chic buckle detail for added elegance",
+    "Versatile carrying options with handles and a detachable strap",
+    "Matching wallet for convenience and style",
+    "Durable and high-quality material"
+  ],
+  "inStock": true,
+  "freeShipping": true
+        },
+        {
+    "id": "2",
+  "name": "Trendy Brown Leather Handbag",
+  "price": 69.99,
+  "description": "Make a statement with this trendy brown leather handbag. Featuring a structured design, contrast stitching, and a dual-handle strap system with a bold striped shoulder strap, this handbag offers both style and functionality. Perfect for everyday use or adding a touch of sophistication to your look.",
+  "image": "https://img.kwcdn.com/product/open/2024-09-08/1725759646342-c8c4260f564f4b158720305b38e25612-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
+  "category": "Accessories",
+  "badge": "New Arrival",
+  "features": [
+    "High-quality leather with a smooth finish",
+    "Contrast stitching for a refined touch",
+    "Adjustable and detachable striped shoulder strap",
+    "Spacious interior with multiple compartments",
+    "Durable and stylish for everyday wear"
+  ],
+  "inStock": true,
+  "freeShipping": true
+        },
+        {
+            "id": "3",
+  "name": "Chic White Leather Handbag",
+  "price": 74.99,
+  "description": "Elevate your ensemble with this chic white leather handbag. Featuring a sleek, structured design, elegant silver-tone accents, and a sporty striped shoulder strap, this bag is the perfect blend of sophistication and modern style. Ideal for both casual and formal occasions.",
+  "image": "https://img.kwcdn.com/product/fancy/d9365b78-3a3a-4c9f-97d7-aada9a827dc0.jpg?imageView2/2/w/800/q/70/format/webp",
+  "category": "Accessories",
+  "badge": "Trending",
+  "features": [
+    "Premium white leather with a smooth finish",
+    "Structured design with multiple zippered compartments",
+    "Stylish striped adjustable shoulder strap",
+    "Elegant silver-tone hardware for a polished look",
+    "Perfect for versatile styling and daily use"
+  ],
+  "inStock": true,
+  "freeShipping": true
+        },
+        {
+           
+    "id": "4",
+  "name": "Minimalist White Handbag with Striped Strap",
+  "price": 69.99,
+  "description": "Add a touch of elegance to your outfit with this minimalist white handbag. Designed with clean lines, subtle texture, and functional zippered compartments, it also features a bold striped shoulder strap for a modern twist. Ideal for everyday use or special outings.",
+  "image": "https://img.kwcdn.com/product/open/8d18243fae75497989316d7f1b3d1cf3-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
+  "category": "Fashion Accessories",
+  "badge": "Editor's Pick",
+  "features": [
+    "Timeless white color for versatile styling",
+    "Multiple zippered compartments for organization",
+    "Detachable striped shoulder strap for convenience",
+    "Durable and lightweight for daily wear",
+    "Simple yet sophisticated design"
+  ],
+  "inStock": true,
+  "freeShipping": true
+        }
+    ]
+} 
